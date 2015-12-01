@@ -2,6 +2,7 @@
 # LICENCE: https://raw.github.com/yolk/biggs/master/LICENSE
 #
 # Avaible placeholders:
+#   * house name
 #   * fn
 #   * street-address
 #   * postal-code
